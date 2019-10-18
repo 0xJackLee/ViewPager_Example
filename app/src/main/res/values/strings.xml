@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager_Example</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+</resources>
